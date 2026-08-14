@@ -26,4 +26,3 @@ Shared views display aggregate connection counts by role. The summary helps the 
 ## Password-protected and legacy links
 
 A password-protected share requires the configured password. Older public share links receive Audience access only. For current productions, prefer explicit role links from the Share panel.
-

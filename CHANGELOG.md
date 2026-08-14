@@ -16,4 +16,3 @@ This file begins with the public community repository. Earlier application histo
 
 - Test Mode highlights are isolated from real-show highlights
 - Audience shared views display the same aggregate connection summary as other roles
-

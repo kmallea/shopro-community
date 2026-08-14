@@ -26,4 +26,3 @@ If private vulnerability reporting is unavailable, contact the repository owner 
 Only test accounts, shows, links, and infrastructure you own or have explicit permission to assess. Do not disrupt live productions, access other users' information, perform denial-of-service testing, or retain private data.
 
 We will acknowledge a complete report as soon as practical, investigate it, and coordinate disclosure after a fix is available.
-

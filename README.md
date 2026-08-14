@@ -2,7 +2,7 @@
 
 Community hub for [ShoPro](https://shopro.live) — documentation, guides, release updates, feature requests, bug reports, and resources for managing live shows, streams, and events in real time.
 
-ShoPro helps producers, hosts, streamers, podcasters, and production teams plan a rundown, rehearse safely, stay on time, coordinate collaborators, and control on-screen graphics while a show is live.
+ShoPro helps producers, stage managers, hosts, performers, streamers, podcasters, and event teams plan a rundown, rehearse safely, stay on time, coordinate everyone involved, and control on-screen graphics while a show or event is live.
 
 > The ShoPro application source is maintained privately. This public repository hosts user documentation, community support, and product feedback.
 
@@ -30,6 +30,8 @@ ShoPro helps producers, hosts, streamers, podcasters, and production teams plan 
 ## Who ShoPro is for
 
 - Live streamers who want structure without losing flexibility
+- Live-event teams running performances, conferences, ceremonies, and other programs on a strict schedule
+- Stage managers, directors, crew, and talent who need a shared view of where the show is now and what is coming next
 - Producers running interviews, panels, webinars, or recurring shows
 - Podcasters planning timed episodes and chapter markers
 - Hosts using scripts, notes, and a teleprompter
@@ -37,6 +39,8 @@ ShoPro helps producers, hosts, streamers, podcasters, and production teams plan 
 - OBS users who want rundown-driven browser graphics
 
 ShoPro is a production companion, not a streaming destination. Continue broadcasting through OBS and your preferred platform while ShoPro manages the workflow around the show.
+
+For an in-person live event, ShoPro can act as the shared running order. As the show caller advances the rundown, stage management, technical crew, presenters, performers, and other stakeholders can follow synchronized role-based views from their own devices. Everyone can see where the event is in the schedule, what is happening now, and what is coming next without relying on repeated radio checks or outdated printed rundowns.
 
 ## Community guidelines
 
@@ -48,4 +52,3 @@ Please read our [contribution guide](CONTRIBUTING.md) and [Code of Conduct](CODE
 - [Documentation](docs/getting-started.md)
 - [Issue tracker](https://github.com/kmallea/shopro-community/issues)
 - [Release notes](CHANGELOG.md)
-

@@ -25,4 +25,3 @@ We are committed to making the ShoPro community a welcoming, respectful, and har
 Project maintainers may edit, hide, lock, or remove content and may temporarily or permanently restrict participation when behavior violates these guidelines. Enforcement decisions will consider context, severity, and the safety of the community.
 
 To report conduct concerns, contact the repository owner privately through their GitHub profile. Do not include sensitive personal details in a public issue.
-

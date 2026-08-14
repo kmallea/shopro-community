@@ -37,4 +37,3 @@ Treat a complete browser-source URL as private. Anyone with the full URL may be 
 6. Recreate the source only after recording its existing dimensions and settings.
 
 See [Troubleshooting](troubleshooting.md) for more checks.
-

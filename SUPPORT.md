@@ -24,4 +24,3 @@ Before posting, remove credentials, role links, source URLs, private notes, emai
 ## Security issues
 
 Never post a vulnerability publicly. Follow [SECURITY.md](SECURITY.md).
-

@@ -42,4 +42,3 @@ Enable cookies for `shopro.live`. Private browsing, aggressive privacy extension
 ## Reporting a problem
 
 Use the [bug report form](https://github.com/kmallea/shopro-community/issues/new?template=bug_report.yml) and include reproduction steps, browser, operating system, affected workflow, and sanitized screenshots. Never post credentials, shared-role links, or browser-source URLs.
-

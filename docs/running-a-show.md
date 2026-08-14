@@ -38,4 +38,3 @@ Test Mode highlights are temporary and isolated. They do not appear in the real 
 ## Ending and reviewing
 
 End the show in ShoPro when the production actually finishes. Then use the post-show tools to review runtime, completed segments, timing variance, highlights, and chapter timestamps.
-

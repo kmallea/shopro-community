@@ -1,6 +1,6 @@
 # Getting Started with ShoPro
 
-ShoPro is a live-production workspace that keeps your rundown, timing, scripts, collaborators, and on-screen graphics synchronized while a show is running.
+ShoPro is a live-production workspace that keeps your rundown, timing, scripts, collaborators, and on-screen graphics synchronized while a show or event is running. It supports streamed productions as well as in-person performances, conferences, ceremonies, stage shows, and other events that must follow a strict schedule.
 
 ## Create your first show
 
@@ -26,6 +26,8 @@ Use Test Mode before an important show. Confirm segment order, shared links, tim
 
 The Share panel provides links for Producer, Host, Guest Host, and Audience roles. Each role receives a view designed for its responsibilities. See [Shared Roles](shared-roles.md) before distributing links.
 
+For a live event, distribute the appropriate views to stage management, technical crew, presenters, performers, and stakeholders. When the show caller advances the rundown, every connected view updates so the team knows the current item and what is coming next.
+
 ## Connect OBS
 
 ShoPro can drive browser-source graphics such as tickers, chyrons, rundowns, and themed overlays. See [OBS Browser Sources](obs-browser-sources.md).
@@ -41,4 +43,3 @@ ShoPro can drive browser-source graphics such as tickers, chyrons, rundowns, and
 - Keep a separate voice or messaging channel available as a fallback.
 
 Next: [Running a Show](running-a-show.md)
-

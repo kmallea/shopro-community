@@ -40,4 +40,3 @@ For documentation changes:
 ## Conduct and safety
 
 Participation is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). Report security concerns privately using [SECURITY.md](SECURITY.md), never through a public issue.
-

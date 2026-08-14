@@ -31,4 +31,3 @@ Restarting a test resets its runtime and test highlights. Exiting or discarding 
 ShoPro prevents a real show from starting while an active test session exists. If Run Mode cannot start, verify that Test Mode has been exited or discarded.
 
 Test Mode is not a replacement for testing the complete broadcast chain. Also verify OBS output, streaming-platform settings, audio routing, recording, and guest connectivity.
-
