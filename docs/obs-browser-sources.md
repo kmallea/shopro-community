@@ -1,8 +1,40 @@
-# OBS Browser Sources
+# Using ShoPro with OBS
 
-ShoPro can publish live graphics to OBS through browser-source URLs. Supported experiences include tickers, chyrons or topic graphics, rundowns, and themed overlays.
+ShoPro integrates with OBS in two different ways:
 
-## Add a source to OBS
+- A **Custom Browser Dock** puts the ShoPro controls inside OBS so you can run the show without switching windows.
+- A **Browser Source** displays ShoPro graphics such as tickers, chyrons or topic graphics, rundowns, and themed overlays in the program output.
+
+The dock is your private control panel. Browser sources are visual layers intended for your OBS scenes.
+
+## Add ShoPro as an OBS dock
+
+Adding ShoPro as a Custom Browser Dock gives you access to the show planner and Run Mode directly inside OBS.
+
+1. Open OBS.
+2. From the top menu, select **Docks > Custom Browser Docks**.
+3. Enter a name such as `ShoPro Control`.
+4. Enter `https://shopro.live/shopro-app` as the URL.
+5. Select **Apply**, then **Close**.
+6. Sign in to ShoPro inside the new dock if prompted.
+7. Open your show and switch to Run Mode.
+8. Drag and resize the dock, or attach it to the OBS layout where it is easy to reach.
+
+From the dock, you can follow the current and upcoming segments, start or end the show, advance the rundown, mark highlights, add a live topic, and control supported overlay visibility without leaving OBS. The controls available to you depend on your ShoPro account and role.
+
+### Dock safety and workflow
+
+- Treat the dock as a production control surface; an accidental click can change the live rundown or graphics.
+- Decide who is responsible for advancing segments when multiple people have control access.
+- Sign in and open the correct show before the production begins.
+- Run a rehearsal and verify that dock actions update the correct browser sources.
+- Keep enough width available for labels and controls to remain readable.
+- Do not show the control dock in a display or window capture; it may contain scripts, notes, controls, or private links.
+- If you use a shared computer, sign out of ShoPro after the production.
+
+If the dock is missing after setup, open **Docks** in OBS and make sure **ShoPro Control** is checked. If it is blank or signed out, refresh the dock or reopen its custom dock settings and confirm the URL.
+
+## Add a ShoPro graphic as a browser source
 
 1. Open **Sources** in ShoPro.
 2. Create or select the graphic you want to use.
@@ -16,6 +48,7 @@ ShoPro can publish live graphics to OBS through browser-source URLs. Supported e
 
 ## Recommended setup
 
+- Keep the ShoPro control dock separate from the scenes and sources sent to the audience.
 - Give each graphic a clear OBS source name.
 - Keep browser sources in a dedicated scene when they are reused.
 - Confirm text size and safe margins at the final stream resolution.

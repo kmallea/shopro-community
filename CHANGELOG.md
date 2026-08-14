@@ -10,6 +10,7 @@ It is intentionally curated rather than generated from every code change. Routin
 
 - Launched this public documentation and community-support repository.
 - Added getting-started, live-show workflow, Test Mode, shared-role, OBS browser-source, and troubleshooting guides.
+- Added instructions for using ShoPro as an OBS Custom Browser Dock to control a show directly inside OBS.
 - Added structured forms for reporting bugs and requesting features.
 
 ### Improved
