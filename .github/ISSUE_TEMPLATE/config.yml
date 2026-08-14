@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ShoPro documentation
+    url: https://github.com/kmallea/shopro-community/tree/main/docs
+    about: Check the user guides before opening an issue.
+  - name: Security vulnerability
+    url: https://github.com/kmallea/shopro-community/security
+    about: Review the private reporting instructions. Do not disclose vulnerabilities publicly.
+

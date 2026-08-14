@@ -1,0 +1,44 @@
+# Getting Started with ShoPro
+
+ShoPro is a live-production workspace that keeps your rundown, timing, scripts, collaborators, and on-screen graphics synchronized while a show is running.
+
+## Create your first show
+
+1. Sign in at [shopro.live](https://shopro.live).
+2. Create a show from the dashboard.
+3. Add the show title, date, episode information, and publishing URL when relevant.
+4. Break the show into segments.
+5. Give each segment a realistic planned duration.
+6. Add private instructions as notes and spoken copy as a script.
+7. Reorder the rundown until it matches the planned production.
+
+Planned durations produce an estimated runtime, helping you catch an overlong rundown before the production begins.
+
+## Choose the right mode
+
+- **Edit Mode** is for building and changing the rundown.
+- **Test Mode** is for rehearsing timing and transitions without changing the real show.
+- **Run Mode** is for operating the actual production.
+
+Use Test Mode before an important show. Confirm segment order, shared links, timing, overlays, and who is responsible for advancing the rundown.
+
+## Invite collaborators
+
+The Share panel provides links for Producer, Host, Guest Host, and Audience roles. Each role receives a view designed for its responsibilities. See [Shared Roles](shared-roles.md) before distributing links.
+
+## Connect OBS
+
+ShoPro can drive browser-source graphics such as tickers, chyrons, rundowns, and themed overlays. See [OBS Browser Sources](obs-browser-sources.md).
+
+## Recommended first-show checklist
+
+- Include intro, breaks, transitions, and closing segments.
+- Test scripts and notes with the people who will read them.
+- Agree on one show caller who advances segments.
+- Complete a Test Mode rehearsal.
+- Verify every OBS source in its live scene.
+- Test guest audio, video, headphones, and browser permissions.
+- Keep a separate voice or messaging channel available as a fallback.
+
+Next: [Running a Show](running-a-show.md)
+

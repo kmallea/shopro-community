@@ -1,0 +1,60 @@
+name: Feature request
+description: Suggest a ShoPro workflow or capability improvement
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Start with the production problem and the people affected. A clear workflow is more useful than a feature name alone.
+  - type: checkboxes
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues for a similar request.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Production problem
+      description: What is difficult, slow, risky, or impossible today?
+    validations:
+      required: true
+  - type: textarea
+    id: users
+    attributes:
+      label: Who needs this?
+      placeholder: Producer, host, guest, observer, OBS operator, editor...
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Desired workflow
+      description: Describe how you would expect the feature to work during a real production.
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Current workaround
+      description: How do you handle this today?
+  - type: dropdown
+    id: timing
+    attributes:
+      label: When is it needed?
+      options:
+        - Planning or editing
+        - Rehearsal or Test Mode
+        - During a live show
+        - Post-production
+        - Across the entire workflow
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add mockups, examples, or related tools without including private production data.
+
