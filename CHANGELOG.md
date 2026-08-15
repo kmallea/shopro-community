@@ -12,10 +12,14 @@ It is intentionally curated rather than generated from every code change. Routin
 - Added getting-started, live-show workflow, Test Mode, shared-role, OBS browser-source, and troubleshooting guides.
 - Added instructions for using ShoPro as an OBS Custom Browser Dock to control a show directly inside OBS.
 - Added structured forms for reporting bugs and requesting features.
+- Added recent show-chat history so participants who join late or reconnect can catch up on the conversation.
 
 ### Improved
 
 - Improved realtime collaboration and connection handling for shared shows.
+- Refreshed Account Settings with clearer Profile, Preferences, Security, and Plan & Billing sections.
+- Account display names are now used as the default name in show chat.
+- Guests joining a shared show can choose a display name, reuse it on return visits, and change it from chat.
 
 ### Fixed
 
