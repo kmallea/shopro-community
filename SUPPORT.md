@@ -6,7 +6,7 @@
 - [Running a show](docs/running-a-show.md)
 - [Test Mode](docs/test-mode.md)
 - [Shared roles](docs/shared-roles.md)
-- [OBS browser sources](docs/obs-browser-sources.md)
+- [Using ShoPro with OBS](docs/obs-browser-sources.md)
 - [Troubleshooting](docs/troubleshooting.md)
 
 ## Ask for help

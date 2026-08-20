@@ -30,7 +30,7 @@ For a live event, distribute the appropriate views to stage management, technica
 
 ## Connect OBS
 
-ShoPro can drive browser-source graphics such as tickers, chyrons, rundowns, and themed overlays. See [OBS Browser Sources](obs-browser-sources.md).
+Add `https://shopro.live/obs` as a Custom Browser Dock to operate ShoPro from inside OBS. ShoPro can also drive separate browser-source graphics such as tickers, chyrons, rundowns, and themed overlays. See [Using ShoPro with OBS](obs-browser-sources.md) for the complete setup and rehearsal workflow.
 
 ## Recommended first-show checklist
 

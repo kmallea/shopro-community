@@ -26,6 +26,14 @@ Current ShoPro versions isolate test timing, temporary topics, and highlights. R
 - Check HTTPS and WebSocket access.
 - Confirm the correct ShoPro source is assigned to the show.
 
+## The OBS dock keeps asking me to sign in
+
+Use `https://shopro.live/obs` for the Custom Browser Dock and leave **Remember me** selected on a trusted production computer. OBS uses browser storage that is separate from Chrome, Edge, Firefox, and Safari, so signing in through another browser does not sign in the dock. Clearing the OBS browser cache or changing OBS profiles may require a new sign-in.
+
+## Test is unavailable in the OBS dock
+
+ShoPro hides Test while a real show or test run is active. Use **Rejoin Show** or **Rejoin Test** to return to the active controls. End the real show or exit the test session before beginning another rehearsal.
+
 ## A remote guest has no camera or microphone
 
 - Confirm browser permission was granted.
@@ -37,7 +45,7 @@ Current ShoPro versions isolate test timing, temporary topics, and highlights. R
 
 ## Login does not persist
 
-Enable cookies for `shopro.live`. Private browsing, aggressive privacy extensions, or automatic cookie deletion may prevent remembered login from working. Signing in again creates a new refresh session.
+Enable cookies for `shopro.live`. Private browsing, aggressive privacy extensions, automatic cookie deletion, or clearing the OBS browser cache may prevent remembered login from working. Login state is separate in OBS and your normal browser. Signing in again creates a new refresh session.
 
 ## Reporting a problem
 

@@ -12,7 +12,7 @@ ShoPro helps producers, stage managers, hosts, performers, streamers, podcasters
 - [Learn the live-show workflow](docs/running-a-show.md)
 - [Rehearse with Test Mode](docs/test-mode.md)
 - [Understand shared roles and links](docs/shared-roles.md)
-- [Set up OBS browser sources](docs/obs-browser-sources.md)
+- [Use ShoPro with OBS](docs/obs-browser-sources.md)
 - [Troubleshoot common problems](docs/troubleshooting.md)
 - [Report a bug](https://github.com/kmallea/shopro-community/issues/new?template=bug_report.yml)
 - [Request a feature](https://github.com/kmallea/shopro-community/issues/new?template=feature_request.yml)
